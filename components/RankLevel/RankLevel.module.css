@@ -1,0 +1,23 @@
+.container{
+}
+
+.trophyContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left, .right {
+    height: auto;
+    width: 20px;
+}
+
+.trophy {
+    height: auto;
+    width: 260px;
+}
+
+h2 {
+    text-align: center;
+
+}
